@@ -134,7 +134,7 @@ FROM orders
 -- Q3
 /*
 Given the following table
-id-----------------marks---------------student_id
+id-------------------------------------marks-----------------------------------student_id
 1					65					100
 2					80					200
 3					90					300
@@ -197,7 +197,7 @@ FROM student_marks;
 /*
 Consider the following table which contains information about the temperature on a
 certain day. Id is the primary key in this table.
-id-------------------------records_date---------------temperature
+id------------------------------------------------------records_date----------------------------------temperature
 1						 	2015-01-01					10
 2							2015-01-01					25
 3							2015-01-03					20
